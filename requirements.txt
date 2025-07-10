@@ -8,3 +8,7 @@ nibabel
 albumentations
 tqdm
 ipywidgets
+torch
+monai
+jupyter
+kaggle
